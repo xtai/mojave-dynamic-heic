@@ -8,7 +8,7 @@ Place Images in ~/Pictures/backgrounds/mojave/
 
 ### Script file (Thanks [pipwerks](https://github.com/pipwerks/OS-X-Wallpaper-Changer/))
 
-This script file itself can be located anywhere. I keep mine in the `/Pictures/backgrouns/mojave/` folder.
+This script file itself can be located anywhere. I keep mine in the `/Pictures/backgrounds/mojave/` folder.
 
 The script must be run at specified intervals using automation of some kind. I use GeekTool, but you may also use a built-in service such as crontab.
 
